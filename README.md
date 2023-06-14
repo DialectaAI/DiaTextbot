@@ -1,0 +1,2 @@
+# DiaTextbot
+Dialecta Text AI
